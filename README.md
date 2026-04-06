@@ -173,11 +173,11 @@ Open **http://localhost:8501**
 
 ## 🖼️ Screenshots
 
-> Add screenshots to the `screenshots/` folder after running the app, then update below.
+>  `screenshots/` folder after running the app, then update below.
 
-| Dashboard | Signals | Angel One Guide |
+| Dashboard  | Angel One Guide |
 |-----------|---------|-----------------|
-| ![](screenshots/dashboard.png) | ![](screenshots/signals.png) | ![](screenshots/angel_one.png) |
+| ![](Dashbord.jpeg)  | ![](chatbot.png.jpeg) |
 
 ---
 
