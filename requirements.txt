@@ -1,0 +1,52 @@
+# ============================================================
+# AI Trading Signal System — Dependencies
+# Install: pip install -r requirements.txt
+# Python : 3.10+
+# ============================================================
+
+# Data & market feed
+yfinance==0.2.36
+pandas==2.1.4
+numpy==1.26.2
+requests==2.31.0
+
+# Technical analysis
+ta==0.11.0
+pandas-ta==0.3.14b
+
+# Machine learning
+scikit-learn==1.3.2
+xgboost==2.0.3
+lightgbm==4.1.0
+imbalanced-learn==0.11.0
+
+# Deep learning (LSTM)
+tensorflow==2.15.0
+keras==2.15.0
+
+# NLP / sentiment
+transformers==4.36.0
+torch==2.1.2
+nltk==3.8.1
+
+# Serialization
+joblib==1.3.2
+
+# Dashboard
+streamlit==1.28.2
+plotly==5.18.0
+
+# Utilities
+python-dotenv==1.0.0
+pytz==2023.3.post1
+loguru==0.7.2
+tqdm==4.66.1
+
+# Testing
+pytest==7.4.3
+pytest-cov==4.1.0
+
+# Notebooks (optional)
+jupyter==1.0.0
+matplotlib==3.8.2
+seaborn==0.13.0
